@@ -3,4 +3,4 @@ testpages
 
 Dit is content
 
-[Mijn andere pagina](/testpages/mypage.md)
+[Mijn andere pagina](/testpages/mypage)
